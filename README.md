@@ -1,7 +1,7 @@
 ### Olá! Bem-vindo ao meu perfil!
 
 
-- 🔭 Trabalho com engenharia industrial, porém, no momento fazendo projetos internos com programação 🚀
+- 🔭 Trabalho com engenharia industrial, e estudo programação nas horas vagas 🚀
 - 🌱 Estou estudando ReactJS, React Native e NodeJS
 - 📫 Contate-me por: carlos.edfrei@gmail.com
   
